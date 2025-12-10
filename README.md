@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 💻 Passionate about building high-quality full-stack web applications  
 - 🧠 Constantly learning advanced system design, distributed systems, and scalable backend services  
 - 🎯 Focused on clean architecture, performance, and developer productivity  
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 **Frontend:**  
 `Next.js` • `React` • `Angular` • `TailwindCSS` • `Shadcn/UI`
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📚 Featured Projects
+### Featured Projects
 | Project | Description |
 |--------|-------------|
 | **01bus** | Transportation management platform (roles, reservations, live scheduling) |
@@ -40,14 +40,14 @@
 
 ---
 
-### 🌱 Current Goals
+### Current Goals
 - Enhancing cloud-native skills (Kubernetes, distributed workloads)
 - Designing scalable SaaS architectures
 - Building open-source libraries used in production environments
 
 ---
 
-### 📫 Contact
+### Contact
 - **Email:** `oussama.amyay@ebuildr.com`
 - **Portfolio:** `oamyay.ebuildr.com`
 - **LinkedIn:** `linkedin.com/in/oamyay/`
