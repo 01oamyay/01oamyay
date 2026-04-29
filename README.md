@@ -26,7 +26,7 @@ Discord bot platform deployed on a hardened Hetzner VPS with Docker Compose, Cad
 ### [01Bus](https://transport.zone01oujda.ma)
 Bus management web app built with Next.js, PostgreSQL, Prisma, and WebSockets, with full production VM setup and deployment.
 
-### [Alami Photography Portfolio](https://alamiwebsite.com)
+### [Alami Photography Portfolio](https://alamiphotography.com)
 Headless CMS portfolio built with Next.js, Payload CMS, PostgreSQL, and Cloudinary, including production deployment and SEO work.
 
 ### [crud-master](https://github.com/01oamyay/crud-master)
